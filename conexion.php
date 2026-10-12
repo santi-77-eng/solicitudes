@@ -1,8 +1,8 @@
 <?php
-$servidor = "localhost";
-$usuario = "root";
+$servidor = "";
+$usuario = "";
 $pass = "";
-$base = "solicitudes_db";
+$base = "";
 
 $conexion = new mysqli($servidor, $usuario, $pass, $base);
 
