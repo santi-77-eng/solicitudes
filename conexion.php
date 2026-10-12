@@ -1,6 +1,7 @@
 <?php
+// Acá colocar los datos de conexión a la base de datos
 $servidor = "";
-$usuario = "";
+$usuario = "dba";
 $pass = "";
 $base = "";
 
